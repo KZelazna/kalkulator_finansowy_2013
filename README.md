@@ -1,0 +1,1 @@
+# kalkulator_finansowy_2012
